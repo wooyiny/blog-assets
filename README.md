@@ -4,3 +4,6 @@
 ## Initialize
 
 ## Upload - About
+
+## Upload - APlayer Playlist Ver. 1
+- 关联 tag `playlist-v1`
