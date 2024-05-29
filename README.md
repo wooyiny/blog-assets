@@ -7,3 +7,6 @@
 
 ## Upload - APlayer Playlist Ver. 1
 - 关联 tag `playlist-v1`
+
+## Upload - APlayer Playlist Ver. 2
+- 关联 tag `playlist-v2`
